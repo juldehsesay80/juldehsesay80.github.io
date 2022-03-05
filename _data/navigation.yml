@@ -7,7 +7,7 @@
 #   side: left
 
 - title: "Education"
-  url: "/design/"
+  url: "/education/"
   side: left
   dropdown:
   - title: "Primary Schools"
@@ -32,7 +32,7 @@
   #   url: "/design/portfolio/"
 
 - title: "Medical"
-  url: "/headers/"
+  url: "/medical/"
   side: left
   dropdown:
   - title: "Patients"
@@ -49,6 +49,22 @@
   #   url: "/design/no-header/"
   # - title: "No Header but Image"
   #   url: "/design/no-header-but-image/"
+
+- title: "Orphanages"
+  url: "/orphanages/"
+  side: left
+
+- title: "Blind School"
+  url: "/blind-school/"
+  side: left
+
+- title: "Sport"
+  url: "/sport/"
+  side: left
+
+- title: "Agriculture"
+  url: "/agriculture/"
+  side: left
 
 - title: About
   url: "/documentation/"
